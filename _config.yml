@@ -72,13 +72,3 @@ deploy:
   
 sitemap:
     path: sitemap.xml
-
-plugins:
-  hexo-generator-robotstxt
-
-robotstxt:
-  useragent: "*"
-  disallow:
-    /js/
-    /css/
-  sitemap: /sitemap.xml
