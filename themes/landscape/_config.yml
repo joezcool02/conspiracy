@@ -28,8 +28,8 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
-favicon: blog\themes\landscape\source\css\images\favicon.ico
+google_analytics: UA-78772205-1
+favicon:
 twitter:
 google_plus:
 fb_admins:
