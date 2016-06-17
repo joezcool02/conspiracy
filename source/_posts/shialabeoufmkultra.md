@@ -2,6 +2,7 @@
 title: Shia LaBeouf, Troubled Star or Work of Fiction?
 date: 2016-06-09 13:50:01
 tags:
+  - Celebrity
 ---
 #### Who is Shia?
 
