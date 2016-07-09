@@ -1,5 +1,5 @@
 ---
-title: JFK and the magic bullet
+title: JFK and The Magic Bullet
 date: 2016-07-08 16:34:08
 tags: 
   - Government

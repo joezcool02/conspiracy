@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: conspiracy-nginx
-        image: gcr.io/onyx-parser-132016/conspiracy-site:v1
+        image: gcr.io/onyx-parser-132016/conspiracy-site:v7
         ports:
         - containerPort: 80
