@@ -1,5 +1,5 @@
 ---
-title: What did George Bush gain from 9/11
+title: What did George Bush gain from 9/11?
 date: 2016-06-16 16:07:34
 tags:
   - Government
