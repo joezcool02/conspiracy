@@ -6,7 +6,7 @@ tags:
   - JFK
 
 ---
-#### Who is JFK?
+### Who is JFK?
 John Fitzgerald "Jack" Kennedy was the 35th President of the United States of America, JFK was the 4th (and most recent) president to have been assasinated and there is a large amount of controversy surrounding his death.
 
 {% asset_img jfk-picture.png JFK in a car%}
