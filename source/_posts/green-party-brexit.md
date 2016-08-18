@@ -4,7 +4,7 @@ date: 2016-08-18 19:03:34
 tags:
 ---
 
-{% asset_img David.jpg David Cameron full of regret%}
+{% asset_img David.jpg David Cameron, Photo Credit Charlie Reynolds%}
 
 ### Who are the Green Party?
 The Green Party is a UK political party based on the principles of "Green Politics". This means they focus heavily on issues including social justice, animal rights and environmentalism. Currently lead by Natalie Bennett the UK Green party is very stereotypically viewed the the youth of the UK as the "good" party as they fight for the social issues that the UK Youth has been lead to believe are most important such as social justice and environmentalism. The downside here is that students famously have not used their votes in the part. In the Brexit vote only 36% of people between the ages of 18 and 24 actually voted. If the Green Party is ever to come into power this will need to change.
