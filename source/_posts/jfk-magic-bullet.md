@@ -1,5 +1,5 @@
 ---
-title: JFK and The Magic Bullet
+title: JFK and The Magic Bullet Theory
 date: 2016-07-08 16:34:08
 tags: 
   - Government
@@ -29,3 +29,6 @@ Obviously it seems crazy for this to happen espeically the part where the bullet
 {% asset_img jfk-pristine-bullet.jpg Pristine Bullet %}
 
 I recomend people have a read through of the actual document as this is only one of very many strange coincidences in the Warren Report https://www.archives.gov/research/jfk/warren-commission-report/
+
+### Where was the magic bullet found?
+Many people are curious as to where the magic bullet was found, or if it was ever found at all as the name implies it is mysterious. The bullet was apparently discovered in a gurney after the assaination had taken place at the Parkland Memorial Hospital. This circumstances seems very suspicious and may have been intentionally left there to cover up the tracks of the conspiracy.
