@@ -1,7 +1,12 @@
 ---
 title: What the Green Party gains from leaving the EU
 date: 2016-08-18 19:03:34
-tags: Brexit,EU,David Cameron,Green Party
+tags: 
+  - Government
+  - Brexit
+  - David Cameron
+  - Green Party
+  - EU
 ---
 
 {% asset_img David.jpg David Cameron, Photo Credit Charlie Reynolds%}

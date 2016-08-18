@@ -3,6 +3,8 @@ title: What did George Bush gain from 9/11?
 date: 2016-06-16 16:07:34
 tags:
   - Government
+  - George Bush
+  - 9/11
 ---
 #### Who is George W. Bush?
 George W. Bush (henceforth referred to as Bush) was the 43rd President of the United States of America, serving from 2001 to 2009. There was a large amount of controversy surrounding Bush in each election he took part in. There was a particular controversy in the Al Gore presidential race with claims of gerrymandering and demands for recounts of votes in many states.
