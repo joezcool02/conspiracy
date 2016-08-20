@@ -16,13 +16,13 @@ George W. Bush (henceforth referred to as Bush) was the 43rd President of the Un
 {% endblockquote %}
 
 ### What Would Bush stand to gain from 9/11?
-Bush had a lot to gain from a large scale terrorism attack, a war could keep him in power for longer than a presidential term and the Bush family has long been very powerful. Prescott Bush (George's grandfather) was one of the people who helped fund Hitler's rise to power, this is a trend that has continued in the Bush family, Jeb Bush and his son both becoming president can't be a coincidence. It is possible that if a large scale war broke out the normal presidency term could be increased, keeping the Bush family in power.
+Bush had a lot to gain from a large scale terrorism attack, a war could keep him in power for longer than a presidential term and the Bush family has long been very powerful. Prescott Bush (George's grandfather) was one of the people who helped fund Hitler's rise to power, this is a trend that has continued in the Bush family, George Bush Senior and his son both becoming president can't be a coincidence. It is possible that if a large scale war broke out the normal presidency term could be increased, keeping the Bush family in power.
 George bush himself said that the 9/11 attack provided a "great opportunity". Bush was looking for a chance to expand Americas influence,  "American peace is to be maintained, and expanded” and a terror attack was the perfect Pearl Harbour 2.0 to move the USA forward!
 
 ### Evidence of George Bush's involvement
 All of the Bush's cabinet had met with the funder of the 9/11 attacks in the week before the attack, a convenient time to discuss details of the attack.
 
-One reporter (Rudy Giuliani) reported the hit on the Pentagon a few minutes before the attack actually happened, in an attempt to get early and powerful coverage the big media company CNN accidentally revealed they had been tipped off by the attack before it actually happened. He also gave a series of incredibly well rehearsed speeches on the day, where did he find the time to prepare these speeches?
+Rudy Giuliani reported the hit on the Pentagon a few minutes before the attack actually happened, in an attempt to get early and powerful coverage the big media company CNN accidentally revealed they had been tipped off by the attack before it actually happened. He also gave a series of incredibly well rehearsed speeches on the day, where did he find the time to prepare these speeches?
 
 Military responses from NORAD were suspiciously slow and many changes had been introduced in the weeks before the actual attacks took place, the standard air force response time in the USA used to be 4 minutes. And the stock prices for american airlines dropped by almost 50% on the day!
 
